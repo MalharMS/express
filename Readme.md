@@ -149,7 +149,7 @@ See the [Contributing Guide](Contributing.md) for more technical details on cont
 
 ### Security Issues
 
-If you discover a security vulnerability in Express, please see [Security Policies and Procedures](Security.md).
+If you discover a security vulnerability in Express, please see [Security Policies and Procedures](Security.md)
 
 ### Running Tests
 
